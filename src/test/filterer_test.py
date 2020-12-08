@@ -70,7 +70,7 @@ class FitlererTest(TestCase):
 
             (  # test case 3
                 "the quick brown fox jumps over the lazy dog",
-                "abcdefghijklmnopqrstuvwxyz ",
+                "abcdefghijklmnopqrstuvwxyz",
                 ""),
 
             (  # test case 4
